@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "576394283019",
+    "project_id": "schoolage-41aba",
+    "storage_bucket": "schoolage-41aba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576394283019:android:0a55f2ea34a838708d9f0e",
+        "android_client_info": {
+          "package_name": "schoolage.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNz0oxwZqWvLrKmI2hgiJFLr74klhzMzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
